@@ -137,7 +137,29 @@ npm run dev
 
 ## 📸 Screenshots
 
+![Screenshot (135)](https://github.com/user-attachments/assets/370dc924-4baf-4fcb-88e2-8353d830471f)
 
+![Screenshot (136)](https://github.com/user-attachments/assets/c35fdb12-f22e-442c-8440-d56a30f259e0)
+
+![Screenshot (137)](https://github.com/user-attachments/assets/d1612430-b5e2-43ca-ac9a-e34bf41765d7)
+
+![Screenshot (138)](https://github.com/user-attachments/assets/c463c279-f33c-4c57-b6d8-0ecbb5ed0cf1)
+
+![Screenshot (139)](https://github.com/user-attachments/assets/6522b313-7c36-421b-95a4-e87466c4f583)
+
+![Screenshot (140)](https://github.com/user-attachments/assets/cd2f1084-b76f-4d8a-a426-a05344c4c9a1)
+
+![Screenshot (141)](https://github.com/user-attachments/assets/c6e93e21-d704-4b35-b7d4-b5a5fae99167)
+
+![Screenshot (142)](https://github.com/user-attachments/assets/62cd9c6d-7fb0-4a5b-b284-2438840d426d)
+
+![Screenshot (143)](https://github.com/user-attachments/assets/5539400a-d52d-4ed4-bfc6-d969cb1536a9)
+
+![Screenshot (144)](https://github.com/user-attachments/assets/37f7857e-c11a-43e8-bb98-a5c4427c2ec2)
+
+![Screenshot (145)](https://github.com/user-attachments/assets/8b77caa6-a385-47e4-8430-d29d8451d92a)
+
+![Screenshot (146)](https://github.com/user-attachments/assets/c829d231-686b-4799-b744-50aa56887837)
 
 ## 🤝 Contributing
 We welcome community contributions! Follow the steps below to contribute:
