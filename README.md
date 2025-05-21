@@ -1,5 +1,13 @@
 # ✈️🧳 TravelPrep – Smart Travel Packing & Planner App
 
+![Screenshot (135)](https://github.com/user-attachments/assets/370dc924-4baf-4fcb-88e2-8353d830471f)
+
+![Screenshot (140)](https://github.com/user-attachments/assets/cd2f1084-b76f-4d8a-a426-a05344c4c9a1)
+
+![Screenshot (145)](https://github.com/user-attachments/assets/8b77caa6-a385-47e4-8430-d29d8451d92a)
+
+![Screenshot (146)](https://github.com/user-attachments/assets/c829d231-686b-4799-b744-50aa56887837)
+
 - A beautifully designed, minimalist travel preparation tool built with React, Tailwind CSS, and enhanced by Framer Motion animations.
 - TravelPrep helps users organize packing lists, set trip dates, and track packing progress with a smooth, user-friendly experience.
 - Whether you're off for a quick getaway or a long adventure, TravelPrep keeps you sorted.
